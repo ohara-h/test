@@ -36,7 +36,7 @@ $stmt = $pdo->query("select * from diworks_keijiban");
     
     <form method="post" action="insert.php">
         
-        <h1>入力フォーム</h1>
+        <h1>掲示板入力フォーム</h1>
         
         <div>
             <label>ハンドルネーム</label>
